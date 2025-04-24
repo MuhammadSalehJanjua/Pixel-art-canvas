@@ -1,25 +1,16 @@
 🎨 Pixel Art Canvas
 
-A fun, interactive multiplayer pixel art canvas built with **Next.js**, designed to let users create pixel art together in real time.
+A fun, interactive multiplayer pixel art canvas designed to let users create pixel art together in real time.
 
 ---
 
 ## 🚀 Features
 
 - 🎨 Draw pixel art on a grid-based canvas
-- 👥 (Planned) Multiplayer support — multiple users drawing together
 - 🖌️ Intuitive, responsive UI for seamless pixel editing
 - 💾 Canvas state persistence (in development)
-- 🔒 Authentication system for login/signup
+- 🔒 Authentication system for login/signup (in development)
 - 🌐 Fully responsive design using modern web technologies
-
----
-
-## 🛠️ Built With
-
-- [Next.js](https://nextjs.org/) — React framework for building modern web apps
-- [React](https://reactjs.org/) — Frontend library
-- [Tailwind CSS](https://tailwindcss.com/) — Utility-first CSS framework
 
 ---
 
@@ -56,16 +47,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 /components      → Reusable React components
 /styles          → Global and custom styles
 ```
-
----
-
-## ✅ TODOs
-
-- [ ] Add multiplayer support with WebSockets
-- [ ] Implement user accounts with authentication
-- [ ] Store canvas state in a database
-- [ ] Add color picker and tools (eraser, fill, etc.)
-
 ---
 
 ## 📜 License
